@@ -1,3 +1,7 @@
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=fastAPISemillero&metric=coverage)](https://sonarcloud.io/summary/new_code?id=fastAPISemillero)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fastAPISemillero&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=fastAPISemillero)
+
 [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-black.svg)](https://sonarcloud.io/summary/new_code?id=fastAPISemillero)
 
 # Comandos
