@@ -27,7 +27,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install --no-cache-dir --upgrade -r requirements.txt; fi
     - name: Test with pytest
       run: |
-        pytest:python -m unittest discover tests
+        python -m unittest discover tests
     - name: SonarCloud Scan
       uses: SonarSource/sonarcloud-github-action@v1.8
       with:
