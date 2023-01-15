@@ -1,4 +1,4 @@
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=fastAPISemillero&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=fastAPISemillero)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=fastAPISemillero&metric=coverage)](https://sonarcloud.io/summary/new_code?id=fastAPISemillero)
 
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=fastAPISemillero)](https://sonarcloud.io/summary/new_code?id=fastAPISemillero)
 
